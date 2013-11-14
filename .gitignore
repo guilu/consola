@@ -1,0 +1,7 @@
+#composer vendor files
+vendor/
+
+#phpStorm (if you are up to this!)
+.idea/
+
+#this is it for now....

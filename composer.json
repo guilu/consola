@@ -1,0 +1,20 @@
+{
+    "name": "diegobarrioh/consola",
+    "description": "php console project boilerplate (... with symfony2 console component)",
+    "require": {
+        "symfony/console": "2.4.*@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego Barrio",
+            "email": "diegobarrioh@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload" : {
+        "psr-0" : {
+            "diegobarrioh" : "src"
+        }
+    }
+}
