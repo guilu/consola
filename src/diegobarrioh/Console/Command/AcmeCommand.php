@@ -52,13 +52,13 @@ class AcmeCommand extends Command
     {
         $name = $input->getArgument('name');
         if ($name) {
-            $text = 'Hello '.$name;
+            $text = 'wake up '.$name."...";
         } else {
-            $text = 'Hello';
+            $text = 'wake up';
         }
 
         if ($input->getOption('yell')) {
-            $text = strtoupper($text);
+            $text = strtoupper($text."!!!");
         }
 
         $output->writeln($text);
