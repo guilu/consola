@@ -3,8 +3,8 @@
 #php console project boilerplate
 
 ###descripción
-This is a fairly simple **console project start up application**. In order to create your own console app. The only thing you have to do is code de Commands into de `diegobarrioh\Console\Command` directory.
-This commands are an implementation of symfony2 command component, check [this](http://symfony.com/doc/current/components/console/introduction.html "symfony2 console component")
+This is a fairly simple **console project start up application**. In order to create your own console app, the only thing you have to do is code the Commands into the `diegobarrioh\Console\Command` directory.
+These commands are an implementation of the [symfony2 command component](http://symfony.com/doc/current/components/console/introduction.html "symfony2 console component")
 
 ***
 
