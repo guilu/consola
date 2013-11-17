@@ -2,7 +2,8 @@
     "name": "diegobarrioh/consola",
     "description": "php console project boilerplate (... with symfony2 console component)",
     "require": {
-        "symfony/console": "2.4.*@dev"
+        "symfony/console": "2.4.*@dev",
+        "symfony/finder": "2.3.7"
     },
     "license": "MIT",
     "authors": [
